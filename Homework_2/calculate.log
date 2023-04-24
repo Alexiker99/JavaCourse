@@ -1,0 +1,8 @@
+апр. 20, 2023 11:48:25 AM JavaCourse.Homework_2.Task_3 main
+INFO: Введено первое число: 4
+апр. 20, 2023 11:48:40 AM JavaCourse.Homework_2.Task_3 main
+INFO: Выбранна операция: -
+апр. 20, 2023 11:48:41 AM JavaCourse.Homework_2.Task_3 main
+INFO: Введено второе число: 2
+апр. 20, 2023 11:48:41 AM JavaCourse.Homework_2.Task_3 main
+WARNING: Подсчет выполнен: 4 - 2 = 2
